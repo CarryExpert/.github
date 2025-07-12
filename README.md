@@ -1,2 +1,24 @@
-# .github
-Carry Expert is your go-to destination for premium gaming services. Whether you're looking to climb the ranks, complete challenging missions, or unlock exclusive in-game rewards, our team of elite gamers has you covered. We specialize in fast, secure, and discreet carries across popular titles — helping you play smarter, not harder. 
+# 🎮 Carry Expert
+
+**Carry Expert** is a full-featured web platform offering premium gaming services, including rank boosting, mission carries, and coaching across popular online games. Our mission is to help players achieve their goals efficiently and securely with the help of experienced pros.
+
+## 🌟 Features
+
+- ✅ Secure carry services across multiple games
+- 🕹️ Player-to-player matchmaking and orders
+- 🔐 Encrypted login and payment options
+- 📈 Order tracking and status updates
+- 💬 Live chat support
+- 🌐 Admin dashboard for order management
+
+## 🚀 Technologies Used
+
+- Frontend: `React.js`, 
+- Backend: `Node.js`, `Next.js`
+- Database: `MySQL`
+- Auth: `JWT`, `OAuth`
+- Payment Gateway: `Stripe`
+- Deployment: `AWS`
+
+
+
